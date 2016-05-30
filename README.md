@@ -1,1 +1,1 @@
-# MailCheckerApp
+Mail Checker(POP3/IMAP) - The user enters various account information include web server and IP, protocol type(POP3 or IMAP) and the application will check for email on several accounts at a given interval.
